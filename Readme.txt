@@ -1,0 +1,1 @@
+This is a sample repository used for learning Git
